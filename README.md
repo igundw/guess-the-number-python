@@ -16,20 +16,3 @@ Ini adalah game tebak angka klasik di mana komputer akan memilih sebuah angka ra
 ## Teknologi yang Digunakan
 * **Python 3**
 * Modul `random` (modul bawaan Python)
-
-## Cara Menjalankan
-
-1.  Pastikan kamu sudah meng-install Python 3 di komputermu.
-2.  Clone repositori ini:
-    ```bash
-    git clone [https://github.com/](https://github.com/)[NAMA_USER_GITHUB_KAMU]/[NAMA_REPO_KAMU].git
-    ```
-3.  Masuk ke dalam folder proyek:
-    ```bash
-    cd [NAMA_REPO_KAMU]
-    ```
-4.  Jalankan file Python-nya:
-    ```bash
-    python nama_file_gamemu.py
-    ```
-    *(Ganti `nama_file_gamemu.py` dengan nama file `.py` kamu yang sebenarnya, misal: `tebak_angka.py`)*
